@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.graphml
+*.pt
+*.pth
+xbd/
+xbd_raw/
+osmnx_cache/
+*.html
+.env

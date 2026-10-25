@@ -1,0 +1,13 @@
+gradio
+osmnx
+networkx==3.3
+geopandas
+shapely
+rasterio
+matplotlib
+numpy
+pillow
+torch
+torchvision
+transformers
+segmentation-models-pytorch
